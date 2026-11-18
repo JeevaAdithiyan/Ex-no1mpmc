@@ -1,3 +1,4 @@
+JEEVA ADITHIYAN SK 212225060102
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
@@ -67,6 +68,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="1079" height="939" alt="image" src="https://github.com/user-attachments/assets/98d88b6c-2fb5-41fc-be57-7360f5ffc819" />
+
 
 ## 2. SUBTRACTION
 
@@ -119,6 +122,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1079" height="988" alt="image" src="https://github.com/user-attachments/assets/fe38a510-c11e-4ffb-a371-b7b2307a1a74" />
+
 
 ## 3. MULTIPLICATION
 
@@ -167,6 +172,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1079" height="1495" alt="image" src="https://github.com/user-attachments/assets/35a8cbce-72ef-4ef6-b223-533e61f7250d" />
+
 
 ## 4. DIVISION
 
@@ -211,6 +218,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="1079" height="1526" alt="image" src="https://github.com/user-attachments/assets/f8e8f577-6b67-485d-9c4d-85926c1032d9" />
+
 
 
 
